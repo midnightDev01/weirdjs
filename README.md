@@ -7,7 +7,7 @@
 
 <dl>
   <dt>Lexical Evironment:</dt>
-  <dd>Where something sits physucally in the code you write.</dd>
+  <dd>Where something sits physically in the code you write.</dd>
 </dl>
 
 <dl>
