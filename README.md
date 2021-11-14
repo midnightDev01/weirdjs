@@ -6,7 +6,7 @@
 </dl>
 
 <dl>
-  <dt>Lexical Evironment:</dt>
+  <dt>Lexical Environment:</dt>
   <dd>Where something sits physically in the code you write.</dd>
 </dl>
 
